@@ -215,7 +215,7 @@ const Storage = (() => {
             ? updateDefaultProjectList(projects)
             : updateProjectList(projects);
     };
-//ssssssss
+
     createEmptyProjectLists();
     addEmptyDefaultProjectsLists();
 
@@ -237,5 +237,5 @@ const Storage = (() => {
         updateDefaultProjectTaskIds,
     };
 })();
-//yes
+
 export { Storage };
