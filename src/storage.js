@@ -215,7 +215,7 @@ const Storage = (() => {
             ? updateDefaultProjectList(projects)
             : updateProjectList(projects);
     };
-
+//comment
     createEmptyProjectLists();
     addEmptyDefaultProjectsLists();
 
